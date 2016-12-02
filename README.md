@@ -9,4 +9,4 @@
 ```javascript
 performSearch("Spotify endpoint here", "form value here");
 ```
-- Step 6: Test out your app by searching for a song.
+- Step 6: Test out your app by searching for a song.# Actual_Spotify-Search_Solutions
